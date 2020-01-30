@@ -5,7 +5,7 @@ import Home from './components/Home'
 import RandomBeer from './components/RandomBeer'
 import NewBeer from './components/NewBeer'
 import ListBeers from './components/ListBeers'
-import Navi from './components/Navi'
+
 
 export default class App extends Component {
   render() {
